@@ -4,7 +4,7 @@ import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
-// import star from "./star.svg";
+import star from "./star.svg";
 import shield from "./shield.svg";
 import send from "./send.svg";
 
@@ -20,7 +20,7 @@ import nine from "./009.jpeg"
 import ten from "./010.jpeg"
 
 export {
-  // star,
+  star,
   shield,
   send,
   menu,
