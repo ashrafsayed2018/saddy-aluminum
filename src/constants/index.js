@@ -1,5 +1,4 @@
 import { 
-  star,
   shield,
   send,
   facebook, 
@@ -30,7 +29,7 @@ export const navLinks = [
 export const features = [
   {
     id: "feature-1",
-    icon: star,
+    icon: `/src/assets/star.svg`,
     title: "تصميم وتصنيع الأبواب والنوافذ الألمنيوم",
     content:
       "يتم تصميم وتصنيع الأبواب والنوافذ بأشكال وأحجام مختلفة باستخدام الألمنيوم، حيث يتم توفير قوة ومتانة عالية ومقاومة للعوامل الجوية.",
