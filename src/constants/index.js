@@ -22,6 +22,10 @@ export const navLinks = [
     title: "من نحن",
   },
   {
+    id: "gallery",
+    title: "اعمالنا",
+  },
+  {
     id: "contact",
     title: "تواصل معنا",
   },
